@@ -1,0 +1,7 @@
+{
+  "roll": 2525,
+  "course": "web developers",
+  "_id": "5bee72bf9d1a892090c529a8",
+  "name": "manu banyal",
+  "__v": 0
+}
